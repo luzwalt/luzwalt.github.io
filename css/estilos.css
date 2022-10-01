@@ -1,0 +1,56 @@
+body {
+
+  background-color: #F4F3F2;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+
+.nombre {
+  width: 400px;
+  margin: 10px auto;
+  padding: 20px;
+}
+
+.fotoperfil{
+  width: 600px;
+}
+
+.datos {
+  text-align: center;
+  color: #F4F3F2;
+  font-family: 'Poppins', sans-serif;
+  background-color: #F1C7D2;
+  width: 600px;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+
+.ejercicios {
+  text-align: center;
+  color: #F4F3F2;
+  font-family: 'Poppins', sans-serif;
+  background-color: #B6D3DD;
+  width: 600px;
+  margin: 80px auto;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+.item-m {
+    text-align: center;
+  display: grid;
+}
+
+.item-m a{
+color: #F4F3F2;
+}
+
+.piedepagina {
+  width: 150px;
+  margin: 50px auto;
+
+}
