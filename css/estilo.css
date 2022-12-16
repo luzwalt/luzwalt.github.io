@@ -1,0 +1,29 @@
+
+body {
+ background-color: #ffe9f3;
+ font-family: 'Red Hat Display', sans-serif;
+
+}
+
+.contenedor{
+  color: black;
+ font-family: 'Red Hat Display', sans-serif;
+  font-size: 33px;
+  padding: 30px;
+
+}
+
+
+
+.about{
+  color: white;
+   background-color: #FFA0C4;
+  font-size: 33px;
+  padding: 30px;
+}
+
+.portfolio{
+  color: #FFA0C4;
+  font-size: 33px;
+  padding: 30px;
+}
